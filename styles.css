@@ -66,7 +66,7 @@ button img {
 
 button:disabled {
     filter: brightness(0.8);
-    cursor: none;
+    cursor: unset;
 }
 
 
